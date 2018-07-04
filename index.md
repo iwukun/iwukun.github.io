@@ -4,5 +4,5 @@
 
 layout: home
 ---
-哈哈 这是博客的首页 是不是有点简陋啊~
-没关系 等我长大了在来补~
+
+![avatar](/images/wk4.jpg)
